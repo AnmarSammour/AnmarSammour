@@ -30,7 +30,7 @@
 - 📱 I'm a mobile application developer, specializing in **Android** and **Flutter** development.
 - 🚀 I'm passionate about building seamless user experiences and leveraging modern technologies to solve complex problems.
 - 💬 Ask me about anything related to `Flutter`, `Android`, or mobile architecture.
-- 📫 How to reach me: **anmarsammour2000@gmail.com**
+- 📫 How to reach me: **anmarsammour@gmail.com**
 - ⚡ Fun fact: I enjoy programming so much that I seldom ever notice the time in my work.
 
 ---
